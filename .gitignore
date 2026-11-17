@@ -1,0 +1,5 @@
+# Raw inputs stay in the private raw-backup, not on GitHub
+media/
+data/
+.claude/
+__pycache__/
